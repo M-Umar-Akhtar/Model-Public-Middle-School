@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Model-Public-Middle-School/static/css/main.f42d6700.css",
+    "main.js": "/Model-Public-Middle-School/static/js/main.85733782.js",
+    "static/media/pic.png": "/Model-Public-Middle-School/static/media/pic.bf5144017bdbf00f7db8.png",
+    "static/media/LOGO.jpg": "/Model-Public-Middle-School/static/media/LOGO.c9095d5d7a540d8317c9.jpg",
+    "index.html": "/Model-Public-Middle-School/index.html",
+    "main.f42d6700.css.map": "/Model-Public-Middle-School/static/css/main.f42d6700.css.map",
+    "main.85733782.js.map": "/Model-Public-Middle-School/static/js/main.85733782.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f42d6700.css",
+    "static/js/main.85733782.js"
+  ]
+}
